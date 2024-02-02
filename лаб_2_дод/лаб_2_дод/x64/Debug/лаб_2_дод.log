@@ -1,0 +1,3 @@
+﻿  лаб_2_дод.cpp
+C:\Users\user\source\repos\лаб_2_дод\лаб_2_дод\лаб_2_дод.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  лаб_2_дод.vcxproj -> C:\Users\user\source\repos\лаб_2_дод\x64\Debug\лаб_2_дод.exe
